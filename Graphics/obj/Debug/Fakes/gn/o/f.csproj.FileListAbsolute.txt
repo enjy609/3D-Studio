@@ -1,0 +1,12 @@
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.xml
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.pdb
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Tao.OpenGl.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Tao.Platform.Windows.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.pdb
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.xml
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\f.csprojResolveAssemblyReference.cache
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\GlmNet.0.5.1.0.Fakes.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\GlmNet.0.5.1.0.Fakes.pdb

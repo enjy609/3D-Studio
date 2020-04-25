@@ -1,0 +1,368 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GlmNet.0.5.1.0.Fakes</name>
+    </assembly>
+    <members>
+        <member name="T:GlmNet.Fakes.Shimglm">
+            <summary>Shim type of GlmNet.glm</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimglm.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimglm.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimglm.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.acosSingle">
+            <summary>Sets the shim of glm.acos(Single x)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.acoshSingle">
+            <summary>Sets the shim of glm.acosh(Single x)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.asinSingle">
+            <summary>Sets the shim of glm.asin(Single x)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.asinhSingle">
+            <summary>Sets the shim of glm.asinh(Single x)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.atanSingle">
+            <summary>Sets the shim of glm.atan(Single y_over_x)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.atanSingleSingle">
+            <summary>Sets the shim of glm.atan(Single y, Single x)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.atanhSingle">
+            <summary>Sets the shim of glm.atanh(Single x)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.cosSingle">
+            <summary>Sets the shim of glm.cos(Single angle)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.coshSingle">
+            <summary>Sets the shim of glm.cosh(Single angle)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.crossvec3vec3">
+            <summary>Sets the shim of glm.cross(vec3 lhs, vec3 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.degreesSingle">
+            <summary>Sets the shim of glm.degrees(Single radians)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.dotvec2vec2">
+            <summary>Sets the shim of glm.dot(vec2 x, vec2 y)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.dotvec3vec3">
+            <summary>Sets the shim of glm.dot(vec3 x, vec3 y)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.dotvec4vec4">
+            <summary>Sets the shim of glm.dot(vec4 x, vec4 y)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.frustumSingleSingleSingleSingleSingleSingle">
+            <summary>Sets the shim of glm.frustum(Single left, Single right, Single bottom, Single top, Single nearVal, Single farVal)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.infinitePerspectiveSingleSingleSingle">
+            <summary>Sets the shim of glm.infinitePerspective(Single fovy, Single aspect, Single zNear)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.inversemat2">
+            <summary>Sets the shim of glm.inverse(mat2 m)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.inversemat3">
+            <summary>Sets the shim of glm.inverse(mat3 m)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.inversemat4">
+            <summary>Sets the shim of glm.inverse(mat4 m)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.lookAtvec3vec3vec3">
+            <summary>Sets the shim of glm.lookAt(vec3 eye, vec3 center, vec3 up)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.normalizevec2">
+            <summary>Sets the shim of glm.normalize(vec2 v)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.normalizevec3">
+            <summary>Sets the shim of glm.normalize(vec3 v)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.normalizevec4">
+            <summary>Sets the shim of glm.normalize(vec4 v)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.orthoSingleSingleSingleSingle">
+            <summary>Sets the shim of glm.ortho(Single left, Single right, Single bottom, Single top)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.orthoSingleSingleSingleSingleSingleSingle">
+            <summary>Sets the shim of glm.ortho(Single left, Single right, Single bottom, Single top, Single zNear, Single zFar)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.perspectiveFovSingleSingleSingleSingleSingle">
+            <summary>Sets the shim of glm.perspectiveFov(Single fov, Single width, Single height, Single zNear, Single zFar)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.perspectiveSingleSingleSingleSingle">
+            <summary>Sets the shim of glm.perspective(Single fovy, Single aspect, Single zNear, Single zFar)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.pickMatrixvec2vec2vec4">
+            <summary>Sets the shim of glm.pickMatrix(vec2 center, vec2 delta, vec4 viewport)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.projectvec3mat4mat4vec4">
+            <summary>Sets the shim of glm.project(vec3 obj, mat4 model, mat4 proj, vec4 viewport)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.radiansSingle">
+            <summary>Sets the shim of glm.radians(Single degrees)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.rotateSinglevec3">
+            <summary>Sets the shim of glm.rotate(Single angle, vec3 v)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.rotatemat4Singlevec3">
+            <summary>Sets the shim of glm.rotate(mat4 m, Single angle, vec3 v)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.scalemat4vec3">
+            <summary>Sets the shim of glm.scale(mat4 m, vec3 v)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.sinSingle">
+            <summary>Sets the shim of glm.sin(Single angle)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.sinhSingle">
+            <summary>Sets the shim of glm.sinh(Single angle)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.tanSingle">
+            <summary>Sets the shim of glm.tan(Single angle)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.tanhSingle">
+            <summary>Sets the shim of glm.tanh(Single angle)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.translatemat4vec3">
+            <summary>Sets the shim of glm.translate(mat4 m, vec3 v)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.tweakedInfinitePerspectiveSingleSingleSingle">
+            <summary>Sets the shim of glm.tweakedInfinitePerspective(Single fovy, Single aspect, Single zNear)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimglm.unProjectvec3mat4mat4vec4">
+            <summary>Sets the shim of glm.unProject(vec3 win, mat4 model, mat4 proj, vec4 viewport)</summary>
+        </member>
+        <member name="T:GlmNet.Fakes.Shimmat2">
+            <summary>Shim type of GlmNet.mat2</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimmat2.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimmat2.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimmat2.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat2.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat2.MultiplyOpmat2Single">
+            <summary>Sets the shim of mat2.op_Multiply(mat2 lhs, Single s)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat2.MultiplyOpmat2mat2">
+            <summary>Sets the shim of mat2.op_Multiply(mat2 lhs, mat2 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat2.MultiplyOpmat2vec2">
+            <summary>Sets the shim of mat2.op_Multiply(mat2 lhs, vec2 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat2._to_arrayb__1vec2">
+            <summary>Sets the shim of mat2.&lt;to_array&gt;b__1(vec2 v)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat2.identity">
+            <summary>Sets the shim of mat2.identity()</summary>
+        </member>
+        <member name="T:GlmNet.Fakes.Shimmat2.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:GlmNet.Fakes.Shimmat3">
+            <summary>Shim type of GlmNet.mat3</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimmat3.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimmat3.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimmat3.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat3.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat3.MultiplyOpmat3Single">
+            <summary>Sets the shim of mat3.op_Multiply(mat3 lhs, Single s)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat3.MultiplyOpmat3mat3">
+            <summary>Sets the shim of mat3.op_Multiply(mat3 lhs, mat3 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat3.MultiplyOpmat3vec3">
+            <summary>Sets the shim of mat3.op_Multiply(mat3 lhs, vec3 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat3._to_arrayb__1vec3">
+            <summary>Sets the shim of mat3.&lt;to_array&gt;b__1(vec3 v)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat3.identity">
+            <summary>Sets the shim of mat3.identity()</summary>
+        </member>
+        <member name="T:GlmNet.Fakes.Shimmat3.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:GlmNet.Fakes.Shimmat4">
+            <summary>Shim type of GlmNet.mat4</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimmat4.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimmat4.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimmat4.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat4.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat4.MultiplyOpmat4Single">
+            <summary>Sets the shim of mat4.op_Multiply(mat4 lhs, Single s)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat4.MultiplyOpmat4mat4">
+            <summary>Sets the shim of mat4.op_Multiply(mat4 lhs, mat4 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat4.MultiplyOpmat4vec4">
+            <summary>Sets the shim of mat4.op_Multiply(mat4 lhs, vec4 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat4._to_arrayb__1vec4">
+            <summary>Sets the shim of mat4.&lt;to_array&gt;b__1(vec4 v)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimmat4.identity">
+            <summary>Sets the shim of mat4.identity()</summary>
+        </member>
+        <member name="T:GlmNet.Fakes.Shimmat4.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:GlmNet.Fakes.Shimvec2">
+            <summary>Shim type of GlmNet.vec2</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimvec2.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimvec2.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimvec2.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec2.AdditionOpvec2Single">
+            <summary>Sets the shim of vec2.op_Addition(vec2 lhs, Single rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec2.AdditionOpvec2vec2">
+            <summary>Sets the shim of vec2.op_Addition(vec2 lhs, vec2 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec2.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec2.DivisionOpvec2Single">
+            <summary>Sets the shim of vec2.op_Division(vec2 lhs, Single rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec2.MultiplyOpSinglevec2">
+            <summary>Sets the shim of vec2.op_Multiply(Single lhs, vec2 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec2.MultiplyOpvec2Single">
+            <summary>Sets the shim of vec2.op_Multiply(vec2 self, Single s)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec2.MultiplyOpvec2vec2">
+            <summary>Sets the shim of vec2.op_Multiply(vec2 lhs, vec2 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec2.SubtractionOpvec2Single">
+            <summary>Sets the shim of vec2.op_Subtraction(vec2 lhs, Single rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec2.SubtractionOpvec2vec2">
+            <summary>Sets the shim of vec2.op_Subtraction(vec2 lhs, vec2 rhs)</summary>
+        </member>
+        <member name="T:GlmNet.Fakes.Shimvec2.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:GlmNet.Fakes.Shimvec3">
+            <summary>Shim type of GlmNet.vec3</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimvec3.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimvec3.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimvec3.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec3.AdditionOpvec3Single">
+            <summary>Sets the shim of vec3.op_Addition(vec3 lhs, Single rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec3.AdditionOpvec3vec3">
+            <summary>Sets the shim of vec3.op_Addition(vec3 lhs, vec3 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec3.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec3.DivisionOpvec3Single">
+            <summary>Sets the shim of vec3.op_Division(vec3 lhs, Single rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec3.MultiplyOpSinglevec3">
+            <summary>Sets the shim of vec3.op_Multiply(Single lhs, vec3 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec3.MultiplyOpvec3Single">
+            <summary>Sets the shim of vec3.op_Multiply(vec3 self, Single s)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec3.MultiplyOpvec3vec3">
+            <summary>Sets the shim of vec3.op_Multiply(vec3 lhs, vec3 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec3.SubtractionOpvec3Single">
+            <summary>Sets the shim of vec3.op_Subtraction(vec3 lhs, Single rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec3.SubtractionOpvec3vec3">
+            <summary>Sets the shim of vec3.op_Subtraction(vec3 lhs, vec3 rhs)</summary>
+        </member>
+        <member name="T:GlmNet.Fakes.Shimvec3.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+        <member name="T:GlmNet.Fakes.Shimvec4">
+            <summary>Shim type of GlmNet.vec4</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimvec4.#ctor">
+            <summary>Initializes a new shim instance</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimvec4.BehaveAsCurrent">
+            <summary>Assigns the &apos;Current&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="M:GlmNet.Fakes.Shimvec4.BehaveAsNotImplemented">
+            <summary>Assigns the &apos;NotImplemented&apos; behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec4.AdditionOpvec4Single">
+            <summary>Sets the shim of vec4.op_Addition(vec4 lhs, Single rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec4.AdditionOpvec4vec4">
+            <summary>Sets the shim of vec4.op_Addition(vec4 lhs, vec4 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec4.Behavior">
+            <summary>Assigns the behavior for all methods of the shimmed type</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec4.DivisionOpvec4Single">
+            <summary>Sets the shim of vec4.op_Division(vec4 lhs, Single rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec4.MultiplyOpSinglevec4">
+            <summary>Sets the shim of vec4.op_Multiply(Single lhs, vec4 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec4.MultiplyOpvec4Single">
+            <summary>Sets the shim of vec4.op_Multiply(vec4 self, Single s)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec4.MultiplyOpvec4vec4">
+            <summary>Sets the shim of vec4.op_Multiply(vec4 lhs, vec4 rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec4.SubtractionOpvec4Single">
+            <summary>Sets the shim of vec4.op_Subtraction(vec4 lhs, Single rhs)</summary>
+        </member>
+        <member name="P:GlmNet.Fakes.Shimvec4.SubtractionOpvec4vec4">
+            <summary>Sets the shim of vec4.op_Subtraction(vec4 lhs, vec4 rhs)</summary>
+        </member>
+        <member name="T:GlmNet.Fakes.Shimvec4.AllInstances">
+            <summary>Define shims for all instances members</summary>
+        </member>
+    </members>
+</doc>

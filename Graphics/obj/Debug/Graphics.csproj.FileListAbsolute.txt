@@ -1,0 +1,254 @@
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\bin\Debug\Graphics.exe.config
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\bin\Debug\Graphics.exe
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\bin\Debug\Graphics.pdb
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.exe
+c:\users\islam\documents\visual studio 2017\Projects\Graphics\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab2\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\visual studio 2017\Projects\Graphics Lab3\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Documents\Visual Studio 2017\Projects\Graphics Lab3 transformation\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\bin\Debug\Graphics.exe
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\obj\Debug\Graphics.exe
+C:\Users\Islam\Desktop\Lab 4 - 3D Drawing\Code\3D drawing\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\Graphics.exe.config
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\obj\Debug\Graphics.exe
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\obj\Debug\Graphics.pdb
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\Graphics.exe
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\Graphics.pdb
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\GlmNet.dll
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\mscorlib.dll
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\System.Net.Http.dll
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\GlmNet.pdb
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\GlmNet.xml
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\System.Net.Http.xml
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\normidna.nlp
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\normnfc.nlp
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\normnfd.nlp
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\normnfkc.nlp
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\bin\Debug\normnfkd.nlp
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+C:\Users\Marwa\Desktop\Lab3\3D drawing - STUD\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\bin\Debug\Graphics.exe.config
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Graphics.exe
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Graphics.pdb
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\bin\Debug\Graphics.exe
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\bin\Debug\Graphics.pdb
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\bin\Debug\GlmNet.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\bin\Debug\GlmNet.pdb
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\bin\Debug\GlmNet.xml
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\bin\Debug\GlmNet.0.5.1.0.Fakes.fakesconfig
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Graphics.csprojFakesResolveAssemblyReference.cache
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\fakes.args
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.fakesconfig
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.pdb
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.xml
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.pdb
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.xml
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Tao.OpenGl.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Tao.Platform.Windows.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.ah
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.ch
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.cs
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.csproj
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.fakes
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.fakesconfig
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\f.csproj.FileListAbsolute.txt
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\f.csprojResolveAssemblyReference.cache
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\GlmNet.0.5.1.0.Fakes.dll
+D:\3RD Year\Labs\Lab 2\Code\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\GlmNet.0.5.1.0.Fakes.pdb
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\bin\Debug\Graphics.exe.config
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Graphics.exe
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Graphics.pdb
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\bin\Debug\Graphics.exe
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\bin\Debug\Graphics.pdb
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\bin\Debug\GlmNet.0.5.1.0.Fakes.fakesconfig
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\bin\Debug\GlmNet.dll
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\bin\Debug\GlmNet.pdb
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\bin\Debug\GlmNet.xml
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Graphics.csprojFakesResolveAssemblyReference.cache
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\fakes.args
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.dll
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.fakesconfig
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.pdb
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.xml
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.dll
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.pdb
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.xml
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Tao.OpenGl.dll
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Tao.Platform.Windows.dll
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.ah
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.ch
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.cs
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.csproj
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.fakes
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.fakesconfig
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\f.csproj.FileListAbsolute.txt
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\f.csprojResolveAssemblyReference.cache
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\GlmNet.0.5.1.0.Fakes.dll
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\GlmNet.0.5.1.0.Fakes.pdb
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\3RD Year\Second Term\Computer Graphics\graphics project\3D drawing - STUD\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+H:\3D drawing - STUD\Graphics\bin\Debug\Graphics.exe.config
+H:\3D drawing - STUD\Graphics\obj\Debug\Graphics.exe
+H:\3D drawing - STUD\Graphics\obj\Debug\Graphics.pdb
+H:\3D drawing - STUD\Graphics\bin\Debug\Graphics.exe
+H:\3D drawing - STUD\Graphics\bin\Debug\Graphics.pdb
+H:\3D drawing - STUD\Graphics\bin\Debug\GlmNet.0.5.1.0.Fakes.fakesconfig
+H:\3D drawing - STUD\Graphics\bin\Debug\GlmNet.dll
+H:\3D drawing - STUD\Graphics\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+H:\3D drawing - STUD\Graphics\bin\Debug\GlmNet.pdb
+H:\3D drawing - STUD\Graphics\bin\Debug\GlmNet.xml
+H:\3D drawing - STUD\Graphics\obj\Debug\Graphics.csprojFakesResolveAssemblyReference.cache
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\fakes.args
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.dll
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.fakesconfig
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.pdb
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.xml
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.dll
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.pdb
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.xml
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Microsoft.QualityTools.Testing.Fakes.dll
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Tao.OpenGl.dll
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Tao.Platform.Windows.dll
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.ah
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.ch
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.cs
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.csproj
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.fakes
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.fakesconfig
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\f.csproj.FileListAbsolute.txt
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\f.csprojResolveAssemblyReference.cache
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\GlmNet.0.5.1.0.Fakes.dll
+H:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\GlmNet.0.5.1.0.Fakes.pdb
+H:\3D drawing - STUD\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+H:\3D drawing - STUD\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+H:\3D drawing - STUD\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+H:\3D drawing - STUD\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+D:\3D drawing - STUD\Graphics\bin\Debug\Graphics.exe.config
+D:\3D drawing - STUD\Graphics\bin\Debug\Graphics.exe
+D:\3D drawing - STUD\Graphics\bin\Debug\Graphics.pdb
+D:\3D drawing - STUD\Graphics\bin\Debug\GlmNet.0.5.1.0.Fakes.fakesconfig
+D:\3D drawing - STUD\Graphics\bin\Debug\GlmNet.dll
+D:\3D drawing - STUD\Graphics\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\3D drawing - STUD\Graphics\bin\Debug\GlmNet.pdb
+D:\3D drawing - STUD\Graphics\bin\Debug\GlmNet.xml
+D:\3D drawing - STUD\Graphics\obj\Debug\Graphics.csprojFakesResolveAssemblyReference.cache
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\fakes.args
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.dll
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.fakesconfig
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.pdb
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.xml
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.dll
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.pdb
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\GlmNet.xml
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Microsoft.QualityTools.Testing.Fakes.dll
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Tao.OpenGl.dll
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\b\Tao.Platform.Windows.dll
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.ah
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.ch
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.cs
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.csproj
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.fakes
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\f.fakesconfig
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\f.csproj.FileListAbsolute.txt
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\f.csprojResolveAssemblyReference.cache
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\GlmNet.0.5.1.0.Fakes.dll
+D:\3D drawing - STUD\Graphics\obj\Debug\Fakes\gn\o\GlmNet.0.5.1.0.Fakes.pdb
+D:\3D drawing - STUD\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+D:\3D drawing - STUD\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+D:\3D drawing - STUD\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+D:\3D drawing - STUD\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
+D:\3D drawing - STUD\Graphics\obj\Debug\Graphics.exe
+D:\3D drawing - STUD\Graphics\obj\Debug\Graphics.pdb
+E:\Projects\Project Graphics\Graphics\bin\Debug\Graphics.exe.config
+E:\Projects\Project Graphics\Graphics\obj\Debug\Graphics.exe
+E:\Projects\Project Graphics\Graphics\obj\Debug\Graphics.pdb
+E:\Projects\Project Graphics\Graphics\bin\Debug\Graphics.exe
+E:\Projects\Project Graphics\Graphics\bin\Debug\Graphics.pdb
+E:\Projects\Project Graphics\Graphics\bin\Debug\GlmNet.0.5.1.0.Fakes.fakesconfig
+E:\Projects\Project Graphics\Graphics\bin\Debug\GlmNet.dll
+E:\Projects\Project Graphics\Graphics\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Projects\Project Graphics\Graphics\bin\Debug\GlmNet.pdb
+E:\Projects\Project Graphics\Graphics\bin\Debug\GlmNet.xml
+E:\Projects\Project Graphics\Graphics\obj\Debug\Graphics.csprojFakesResolveAssemblyReference.cache
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\fakes.args
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.dll
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.fakesconfig
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.pdb
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\b\GlmNet.0.5.1.0.Fakes.xml
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\b\GlmNet.dll
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\b\GlmNet.pdb
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\b\GlmNet.xml
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\b\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\b\Tao.OpenGl.dll
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\b\Tao.Platform.Windows.dll
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\f.ah
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\f.ch
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\f.cs
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\f.csproj
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\f.fakes
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\f.fakesconfig
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\o\f.csproj.FileListAbsolute.txt
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\o\f.csprojResolveAssemblyReference.cache
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\o\GlmNet.0.5.1.0.Fakes.dll
+E:\Projects\Project Graphics\Graphics\obj\Debug\Fakes\gn\o\GlmNet.0.5.1.0.Fakes.pdb
+E:\Projects\Project Graphics\Graphics\obj\Debug\Graphics.csprojResolveAssemblyReference.cache
+E:\Projects\Project Graphics\Graphics\obj\Debug\Graphics.GraphicsForm.resources
+E:\Projects\Project Graphics\Graphics\obj\Debug\Graphics.Properties.Resources.resources
+E:\Projects\Project Graphics\Graphics\obj\Debug\Graphics.csproj.GenerateResource.Cache
